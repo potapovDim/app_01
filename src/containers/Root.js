@@ -1,6 +1,6 @@
 /*
 * Root container
-* main goal is wrap our application components into store (context)
+* main goal is to wrap our application components into store (context)
 * for this we are using react-redux <Provider />
 */
 

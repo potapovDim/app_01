@@ -1,6 +1,6 @@
 /*
 * This is application container
-* main goal to get store state and pass down AC
+* main goal is to get store state and pass down AC
 * for this we are using react-redux connect
 */
 

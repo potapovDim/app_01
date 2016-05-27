@@ -1,6 +1,6 @@
 import { INCREMENT, DECREMENT } from '../actionTypes/';
 
-// Редьюсэр
+// Reducer
 const initialState = {
   value: 0,
 };
