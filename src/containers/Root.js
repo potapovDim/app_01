@@ -6,7 +6,6 @@
 
 import React, {Component} from 'react';
 import store from '../store'
-import { connect } from 'react-redux';
 import App from './App'
 import { Provider } from 'react-redux';
 

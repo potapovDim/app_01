@@ -13,7 +13,13 @@
     "unmockedModulePathPatterns": [
       "<rootDir>/node_modules/react/",
       "<rootDir>/node_modules/react-dom/",
-      "<rootDir>/node_modules/react-addons-test-utils/"
+      "<rootDir>/node_modules/react-addons-test-utils/",
+      "<rootDir>/node_modules/redux/",
+      "<rootDir>/node_modules/react-redux/"
+    ],
+    "testDirectoryName": "__test__",
+    "testPathDirs": [
+      "./src/"
     ]
   },
   "author": "Nodman",

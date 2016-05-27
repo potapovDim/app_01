@@ -1,6 +1,6 @@
 // test for AC and reducers
 import expect from 'expect';
-import store from '../store'
+import store from '../store';
 import * as actions from '../actions/';
 import { INCREMENT, DECREMENT } from '../actionTypes/';
 

@@ -23,6 +23,7 @@ function setup() {
   }
 }
 
+
 describe('components', () => {
   describe('Counter', () => {
     it('should render correctly', () => {
